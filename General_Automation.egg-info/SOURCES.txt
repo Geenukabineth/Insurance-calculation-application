@@ -1,0 +1,14 @@
+setup.py
+GUI/Automation_gui.py
+GUI/__init__.py
+GUI/final.py
+GUI/interface2.py
+GUI/interface3.py
+General_Automation.egg-info/PKG-INFO
+General_Automation.egg-info/SOURCES.txt
+General_Automation.egg-info/dependency_links.txt
+General_Automation.egg-info/top_level.txt
+caluculation/__init__.py
+caluculation/cashflow.py
+excel/__init__.py
+excel/initial_estimation.py
